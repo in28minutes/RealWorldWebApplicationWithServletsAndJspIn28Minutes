@@ -1,0 +1,9 @@
+com/in28minutes/web/common/util/TodoListUtils$1.class
+com/in28minutes/web/common/tags/StatusLabelTag.class
+com/in28minutes/web/common/tags/StatusStyleTag.class
+com/in28minutes/web/common/tags/HighlightTag.class
+com/in28minutes/web/common/form/LoginForm.class
+com/in28minutes/web/common/form/RegistrationForm.class
+com/in28minutes/web/common/tags/PriorityIconTag.class
+com/in28minutes/web/common/form/ChangePasswordForm.class
+com/in28minutes/web/common/util/TodoListUtils.class

@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [31/Dec/2015:19:51:18 +0530] "GET /static/img/todolist.ico HTTP/1.1" 200 15086 http-bio-8080-exec-3 140
+0:0:0:0:0:0:0:1 - - [31/Dec/2015:19:51:19 +0530] "GET / HTTP/1.1" 200 2671 http-bio-8080-exec-4 638
+0:0:0:0:0:0:0:1 - - [31/Dec/2015:19:51:19 +0530] "GET / HTTP/1.1" 200 2671 http-bio-8080-exec-2 1618
+0:0:0:0:0:0:0:1 - - [31/Dec/2015:19:51:19 +0530] "GET /login.do HTTP/1.1" 200 2671 http-bio-8080-exec-1 1617
+0:0:0:0:0:0:0:1 - - [31/Dec/2015:19:51:20 +0530] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 118795 http-bio-8080-exec-5 150
+0:0:0:0:0:0:0:1 - - [31/Dec/2015:19:51:20 +0530] "GET /static/js/jquery-1.10.2.min.js HTTP/1.1" 200 92981 http-bio-8080-exec-3 147
+0:0:0:0:0:0:0:1 - - [31/Dec/2015:19:51:20 +0530] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 28515 http-bio-8080-exec-10 150
+0:0:0:0:0:0:0:1 - - [31/Dec/2015:19:51:20 +0530] "GET /static/js/bootstrap-datepicker.js HTTP/1.1" 200 10840 http-bio-8080-exec-9 151
+0:0:0:0:0:0:0:1 - - [31/Dec/2015:19:51:20 +0530] "GET /static/css/datepicker.css HTTP/1.1" 200 4079 http-bio-8080-exec-8 153
+0:0:0:0:0:0:0:1 - - [31/Dec/2015:19:51:20 +0530] "GET /static/img/todolist.ico HTTP/1.1" 200 15086 http-bio-8080-exec-5 1

@@ -1,0 +1,8 @@
+com/in28minutes/data/api/TodoDataService.class
+com/in28minutes/domain/Priority.class
+com/in28minutes/data/api/UserDataService.class
+com/in28minutes/domain/User.class
+com/in28minutes/domain/TodoItemList.class
+com/in28minutes/data/impl/UserDataServiceImpl.class
+com/in28minutes/data/impl/TodoDataServiceImpl.class
+com/in28minutes/domain/TodoItem.class
